@@ -25,10 +25,22 @@ public class Score : MonoBehaviour
     {
         score++;
         UpdateScoreLabel();
+        GameEndCheck();
     }
 
     private void UpdateScoreLabel()
     {
         scoreLabel.text = score.ToString();
+    }
+
+    private void GameEndCheck()
+    {
+        int remainingBricks = FindObjectsByType<Brick>(FindObjectsSortMode.None).Length - 1;
+        if (remainingBricks > 0)
+        {
+            return;
+        }
+
+        Destroy(FindFirstObjectByType<Ball>().gameObject);
     }
 }
