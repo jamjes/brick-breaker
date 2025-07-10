@@ -2,15 +2,25 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private Rigidbody2D rigidBody;
+    [SerializeField] private float speed = 500f;
+
+    private void Awake()
     {
-        
+        rigidBody = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
-        
+        Invoke(nameof(RandomTrajectory), 1f);
+    }
+
+    private void RandomTrajectory()
+    {
+        Vector2 force = Vector2.zero;
+        force.x = Random.Range(-.5f, .5f);
+        force.y = -1;
+
+        rigidBody.AddForce(force.normalized * speed);
     }
 }
