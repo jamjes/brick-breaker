@@ -191,6 +191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 374412561}
   - component: {fileID: 374412562}
+  - component: {fileID: 374412563}
   m_Layer: 0
   m_Name: Bottom
   m_TagString: Untagged
@@ -259,6 +260,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &374412563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374412560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2e8fb7392a1574b85a2d2abbb0f63f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &419972267
 GameObject:
   m_ObjectHideFlags: 0
@@ -1764,7 +1777,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2714684921065194704, guid: 29d148c6c45da4c45a4130ad58e29b22, type: 3}
       propertyPath: speed
-      value: 200
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 2909068823794573180, guid: 29d148c6c45da4c45a4130ad58e29b22, type: 3}
       propertyPath: m_LocalPosition.x
