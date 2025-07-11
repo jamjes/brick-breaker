@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: d33960b3f8a464f49bde02fbf3851e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5832171855535021699
+    second: bricks_0
+  - first:
+      213: -448948775454354536
+    second: bricks_1
+  - first:
+      213: 1329915113816845207
+    second: bricks_2
+  - first:
+      213: -3185777907216620351
+    second: bricks_3
+  - first:
+      213: -8155179776209601898
+    second: bricks_4
+  - first:
+      213: -5700451112235475842
+    second: bricks_5
+  - first:
+      213: -6027746706676494012
+    second: bricks_6
+  - first:
+      213: 8811831953825577259
+    second: bricks_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bricks_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4c10668d2c804b8e6b3d68a8a407e
+      internalID: 870451847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2073950cae7e2aa44b69389a458af5bb
+      internalID: 1050384826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93126c9ea09654641a1f85568fff5f68
+      internalID: 1697068964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9affea57efe50bb4ca2015cb2c8c9583
+      internalID: -1248637917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c9f71f3c856849bcd01b0dc383f64
+      internalID: -734324804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2ad86c21dad2ca84da6396a9c1110a63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bricks_0: 5832171855535021699
+      bricks_1: -448948775454354536
+      bricks_10: -1434672613
+      bricks_11: -1054358474
+      bricks_12: 1090660720
+      bricks_13: 1073550108
+      bricks_14: -526984043
+      bricks_15: 623787957
+      bricks_16: 1259422476
+      bricks_17: -2070973937
+      bricks_18: 365393741
+      bricks_19: -237482909
+      bricks_2: 1329915113816845207
+      bricks_20: -996717615
+      bricks_21: -1275898847
+      bricks_22: 1458774118
+      bricks_23: -834961401
+      bricks_24: -1585135332
+      bricks_25: 607626792
+      bricks_26: -915983434
+      bricks_27: 518003511
+      bricks_28: -225222383
+      bricks_29: 604905850
+      bricks_3: -3185777907216620351
+      bricks_30: 597572882
+      bricks_31: -2142838885
+      bricks_32: 1676504591
+      bricks_33: 195810301
+      bricks_34: 1914619673
+      bricks_35: 661535507
+      bricks_36: 1367467625
+      bricks_37: -34222041
+      bricks_38: 99450459
+      bricks_39: -1380935032
+      bricks_4: -8155179776209601898
+      bricks_40: 418044769
+      bricks_41: 1856014162
+      bricks_42: 929981018
+      bricks_43: 1518344396
+      bricks_44: 976391269
+      bricks_45: 1266714831
+      bricks_46: -460302856
+      bricks_47: 1298934593
+      bricks_48: 1710889792
+      bricks_49: -61959269
+      bricks_5: -5700451112235475842
+      bricks_50: 1861800413
+      bricks_51: 226967619
+      bricks_52: 1411872827
+      bricks_53: 574254783
+      bricks_54: 1411510810
+      bricks_55: 1627948105
+      bricks_56: 549427193
+      bricks_57: -1066049354
+      bricks_58: 511802004
+      bricks_59: -1816708762
+      bricks_6: -6027746706676494012
+      bricks_60: -1281818998
+      bricks_61: 1952709965
+      bricks_62: 1666722205
+      bricks_63: -1237385036
+      bricks_64: -1698425882
+      bricks_65: 1566886465
+      bricks_66: 879506762
+      bricks_67: 914975527
+      bricks_68: -1646598397
+      bricks_69: -1124461731
+      bricks_7: 8811831953825577259
+      bricks_70: 520883841
+      bricks_71: 2017807690
+      bricks_72: -124296502
+      bricks_73: -1444576089
+      bricks_74: 1091350403
+      bricks_75: -1820959931
+      bricks_76: -776625598
+      bricks_77: 870451847
+      bricks_78: 672164254
+      bricks_79: 1050384826
+      bricks_8: -1115254852
+      bricks_80: -790602035
+      bricks_81: 1697068964
+      bricks_82: -1248637917
+      bricks_83: -734324804
+      bricks_9: 211233975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
